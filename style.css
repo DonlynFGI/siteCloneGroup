@@ -1,0 +1,29 @@
+:root{
+  --vans-Primary:rgb(136, 133, 133);
+  --vans-secondary:rgb(199, 199, 199);
+  --vans-dark:rgb(58, 55, 55);
+}
+
+
+header{
+  height:10vh;
+  background-color: var(--vans-Primary);
+}
+
+.bg-grey{
+  background-color: grey;
+}
+
+.btn-size{
+height:10vh;
+margin:0;
+}
+
+.btn-style{
+  background-color:var(--vans-dark);
+}
+
+.img-size{
+  height:35%;
+  width:100%;
+}
